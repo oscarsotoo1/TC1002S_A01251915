@@ -3,10 +3,10 @@ Repositorio para alojar los ejercicos, prácticas y tareas a realizar
 en el curso de Herramientas Computacionales: El arte de la analítica,
 en el Tec de Monterrey campus Sonora Norte.
 ## ESTUDIANTE 
-NOMBRE DEL ESTUDIANTE
+Oscar Soto
 
 ## MATRICULA
-MATRICULA DEL ESTUDIANTE
+A01251915
 
 ## LISTADO DE EJERCICIOS
 * Lista de los ejercicios contenidos en el repositorio

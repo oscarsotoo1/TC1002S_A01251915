@@ -7,7 +7,7 @@ Actividad 2
 - Listo.
 
 Actividad 3
-- Para poder correr con exito esta actividad se necesita descargar el archivo Pace_of_life.csv y el archivo MapaDeCalor_Histogramas_BoxPlots.ipynb. 
+- Para poder correr con exito esta actividad se necesita descargar el archivo Pace_of_life.csv y el archivo MapaDeCalor_Histogramas_BoxPlots_A01251915.ipynb. 
 - Agregar ambos archivos a una carpeta.
 - Meter la carpeta al workspace.
 - Abrir la terminal.

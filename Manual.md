@@ -15,7 +15,7 @@ Actividad 3
 - Listo.
 
 Actividad 4
-- Para poder correr con exito esta actividad se necesita descargar el archivo Pace_of_life.csv y el archivo KmeansEquipo5.ipynb. 
+- Para poder correr con exito esta actividad se necesita descargar el archivo Diamonds_are_forever.csv y el archivo KmeansEquipo5.ipynb. 
 - Agregar ambos archivos a una carpeta.
 - Meter la carpeta al workspace.
 - Abrir la terminal.

@@ -13,3 +13,11 @@ Actividad 3
 - Abrir la terminal.
 - Ejecutar el comando jupyter notebook.
 - Listo.
+
+Actividad 4
+- Para poder correr con exito esta actividad se necesita descargar el archivo Pace_of_life.csv y el archivo KmeansEquipo5.ipynb. 
+- Agregar ambos archivos a una carpeta.
+- Meter la carpeta al workspace.
+- Abrir la terminal.
+- Ejecutar el comando jupyter notebook.
+- Listo.
